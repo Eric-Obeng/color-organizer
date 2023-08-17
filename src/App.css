@@ -1,0 +1,29 @@
+.stars-div {
+  text-align: center;
+  border: .1rem solid grey;
+  margin-bottom: 100px;
+  width: 100%;
+
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 7rem;
+  gap: 10px;
+}
+
+form button{
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+}
